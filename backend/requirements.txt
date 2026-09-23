@@ -1,8 +1,14 @@
 fastapi
 uvicorn[standard]
-langgraph
+python-multipart
 python-dotenv
-pydantic
+
+langgraph
+langchain-core
 openai
-websockets
+
+faster-whisper
+sentence-transformers
+faiss-cpu
+
 pyttsx3
