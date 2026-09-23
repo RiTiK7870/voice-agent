@@ -1,0 +1,6 @@
+PRODUCT FAQ
+
+Customers can contact support for product information and troubleshooting.
+The support team should verify the relevant product documentation before giving
+specific technical instructions.
+If the answer is not present in the approved documentation, escalate to a human agent.

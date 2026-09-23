@@ -1,0 +1,6 @@
+CUSTOMER SUPPORT POLICY
+
+Customers can contact support for account, order, payment and service issues.
+If the automated assistant cannot find a reliable answer in the knowledge base,
+the conversation should be transferred to a human agent.
+Customers should keep their account or order reference available.
